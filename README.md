@@ -1,7 +1,7 @@
 # Welcome
-This readme have three different parts:
-* [The assignemt](#coding-assignment) : if you do not know guilded rose, then read this before starting the programming exercise. If you know it, just skip this.
-* [The setup](#setup) : Installs the tools on you Linux server that you need in order to run the assignment.
+This [README.md](README.md) file has three different parts:
+* [The assignment](#coding-assignment) : If you do not know gilded rose, then read this before starting the programming exercise. If you know it, just skip this.
+* [The setup](#setup) : Install the tools on your Linux server that you need in order to run the assignment.
 * [The exercises](#exercises) : The Jenkins excercises. When you have done the setup, then start here.
 
 
